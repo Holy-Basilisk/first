@@ -1,0 +1,161 @@
+body {
+	font-family: 'Montserrat', sans-serif;
+
+	background-color: #E5E5E5;
+}
+
+.main {
+	display: flex;
+	flex-direction: row-reverse;
+	width: 1200px;
+	background-color: #FFF;
+	box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.1);
+	margin: 40px auto;
+}
+
+.main-content {
+	margin: 50px;
+}
+
+.about-me {
+	margin-bottom: 40px;
+}
+.profession {
+	font-style: normal;
+	font-weight: 700;
+	font-size: 14px;
+	line-height: 17px;
+	color: #000;
+	margin-bottom: 20px;
+}
+.my-name {
+	font-style: normal;
+	font-weight: 700;
+	font-size: 45px;
+	line-height: 55px;
+	color: #000;
+	margin-bottom: 25px;
+}
+.about-me-text {
+	font-style: normal;
+	font-weight: 400;
+	font-size: 14px;
+	line-height: 24px;
+	color: #595959;
+	width: 450px;
+}
+
+.main-content-header {
+	font-style: normal;
+	font-weight: 700;
+	font-size: 22px;
+	line-height: 27px;
+	color: #000000;
+	margin-bottom: 10px;
+}
+.projects {
+	margin-bottom: 40px;
+}
+.projects-list {
+	padding-left: 18px;
+}
+.projects-item {
+	font-style: normal;
+	font-weight: 700;
+	font-size: 14px;
+	line-height: 24px;
+	color: #000000;
+}
+.projects-item-text {
+	font-style: normal;
+	font-weight: 400;
+	font-size: 14px;
+	line-height: 24px;
+	color: #595959;
+}
+.work-exp {
+
+}
+.work-exp-position {
+	font-style: normal;
+	font-weight: 700;
+	font-size: 16px;
+	line-height: 20px;
+	color: #000000;
+	margin: 0 0 10px 0;
+}
+.work-exp-company {
+	font-style: normal;
+	font-weight: 700;
+	font-size: 16px;
+	line-height: 20px;
+	color: #FB6D3A;
+}
+.work-exp-period {
+	font-style: normal;
+	font-weight: 400;
+	font-size: 12px;
+	line-height: 15px;
+	color: #A8A8A8;
+	margin: 0 0 10px 0;
+}
+.work-exp-divider {
+	font-weight: 700;
+	color: #000;
+}
+.duties-list{
+	padding-left: 18px;
+}
+.work-exp-duty{
+	font-style: normal;
+	font-weight: 400
+	font-size: 14px;
+	line-height: 24px;
+	color: #595959;
+}
+
+.sidebar {
+	background-color: #1E2939;
+	width: 370px;
+}
+
+.contacts,
+.tech-skills,
+.soft-skills {
+	margin: 20px 0 20px 20px;
+}
+
+.sidebar-header {
+	font-style: normal;
+	font-weight: 700;
+	font-size: 22px;
+	line-height: 27px;
+	color: #FFF;
+	margin-bottom: 10px;
+}
+
+.contacts-type {
+	font-weight: 400;
+	font-size: 14px;
+	line-height: 24px;
+	color: #FFF;
+	margin: 0 5px 0 0;
+}
+.contacts-link {
+	color: #FFF;
+	opacity: 50%;
+	font-style: normal;
+	font-weight: 400;
+	font-size: 14px;
+	line-height: 24px;
+}
+
+.skill-list {
+	padding-left: 17px;
+}
+.skill-item {
+	color: #FB6D3A;
+}
+.skill-item-text {
+	color: #FFF;
+}
